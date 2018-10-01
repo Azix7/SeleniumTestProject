@@ -33,6 +33,7 @@ public class ActionDriver {
 			
 	}
 	
+	//Launch the application
 	public void LaunchApplication(String url) throws Exception{
 		
 		try {
