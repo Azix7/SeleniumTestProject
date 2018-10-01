@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10279" started-at="2018-10-01T09:22:15Z" finished-at="2018-10-01T09:22:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10279" started-at="2018-10-01T09:22:15Z" finished-at="2018-10-01T09:22:25Z">
+      <class name="scripts.TestCase_Login_LogOut">
+        <test-method status="PASS" signature="report()[pri:0, instance:scripts.TestCase_Login_LogOut@1374a5e]" name="report" is-config="true" duration-ms="124" started-at="2018-10-01T11:22:15Z" finished-at="2018-10-01T11:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TestCase_Login_LogOut@1374a5e]" name="beforeClass" is-config="true" duration-ms="3686" started-at="2018-10-01T11:22:15Z" finished-at="2018-10-01T11:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="MethodName(java.lang.reflect.Method)[pri:0, instance:scripts.TestCase_Login_LogOut@1374a5e]" name="MethodName" is-config="true" duration-ms="4" started-at="2018-10-01T11:22:19Z" finished-at="2018-10-01T11:22:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.TestCase_Login_LogOut.TestLoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodName -->
+        <test-method status="PASS" signature="TestLoginIn()[pri:1, instance:scripts.TestCase_Login_LogOut@1374a5e]" name="TestLoginIn" duration-ms="5569" started-at="2018-10-01T11:22:19Z" finished-at="2018-10-01T11:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginIn -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TestCase_Login_LogOut@1374a5e]" name="afterClass" is-config="true" duration-ms="875" started-at="2018-10-01T11:22:24Z" finished-at="2018-10-01T11:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TestCase_Login_LogOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
